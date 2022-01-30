@@ -42,6 +42,9 @@ function MenuItems() {
       <Menu.Item key="/contract">
         <NavLink to="/contract">Contracts</NavLink>
       </Menu.Item>
+      <Menu.Item key="/admin">
+        <NavLink to="/admin">1337</NavLink>
+      </Menu.Item>
     </Menu>
   );
 }
